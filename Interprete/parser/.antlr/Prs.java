@@ -1,4 +1,4 @@
-// Generated from /Users/carlosngv/Documents/U/OCL2/OCL2 - 1S2022/Proyecto 1 - Tarea/parser/parser/Prs.g4 by ANTLR 4.8
+// Generated from /Users/carlosngv/Documents/U/OCL2/OCL2 - 1S2022/Proyecto 1 - Tarea/Interprete/parser/Prs.g4 by ANTLR 4.8
 
     import arrayList "github.com/colegno/arraylist"
 
